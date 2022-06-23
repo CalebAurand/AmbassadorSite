@@ -37,8 +37,8 @@
 					// Images (in the format of 'url': 'alignment').
 						images: {
 							'images/frontanglechurch.jpg': 'center',
-							'images/editpastorsmithbluecross.jpg': 'center',
-							'images/beamsneglogo.gif': 'center'
+							'images/editPastorSmithBlueCross.jpg': 'center',
+							'images/BEAMSnegLogo.gif': 'center'
 						},
 
 					// Delay.
