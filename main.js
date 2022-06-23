@@ -38,7 +38,7 @@
 						images: {
 							'images/frontanglechurch.jpg': 'center',
 							'images/editPastorSmithBlueCross.jpg': 'center',
-							'images/BEAMSnegLogo.gif': 'center'
+							'images/BEAMSnegLogo.GIF': 'center'
 						},
 
 					// Delay.
